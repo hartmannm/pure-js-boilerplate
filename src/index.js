@@ -1,0 +1,1 @@
+console.log('Pure JS Boilerplate!!!!')
